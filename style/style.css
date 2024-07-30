@@ -1,0 +1,93 @@
+.work-sans-font {
+  font-family: "work sans" , sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+  
+}
+/* shared style  */
+.display-flex{
+  display: flex;
+}
+/* dark02 */
+.text-gray{
+  color: #424242;
+}
+/* dark03 */
+.text-light-gray{
+  color: #727272 ;
+}
+.bg-light{
+   padding: 150px;
+   background-color: dimgrey;
+}
+.nav-links{
+     justify-content: space-between;
+     border: 0.5px solid black;
+    border-radius: 20px;
+}
+.shape{
+  font-family: hin;
+}
+
+/* navbar related styles */
+.navbar{
+    justify-content: space-between;
+    align-items: center;
+}
+.brand{
+  font-weight: 700;
+  color: chocolate;
+  font-size: 3rem;
+
+}
+.nav-item{
+  list-style: none;
+  margin-right: 30px;
+}
+.nav-link{
+  text-decoration: none;
+  font-weight: 400px;
+  
+}
+.nav-links{
+  justify-content: space-between;
+  margin-top: -70px;
+}
+.navbar{
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.btn{
+  border-radius: 20px;
+  background-color: coral;
+  margin-right: 50px;
+
+}
+.first-section{
+  
+}
+.button img{
+  margin-left: 600px;
+  margin-top: -400px;
+}
+.btn-2 {
+  border: 1px solid white;
+  border-radius: 30px;
+  background-color: chocolate;
+  color: white;
+  width: 200px;
+  height: 45px;
+}
+.btn-3{
+  border: 1px solid white;
+  border-radius: 30px;
+  background-color: dimgrey;
+  color: white;
+  width: 200px;
+  height: 45px;
+}
+.title{
+  font-size: 2.5rem;
+  color: white;
+}
