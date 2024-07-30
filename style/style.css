@@ -91,3 +91,52 @@
   font-size: 2.5rem;
   color: white;
 }
+.btn-primary{
+  /* display: flex; */
+}
+#experience-badge-1{
+  padding: 10px 10px;
+  font-size: 1rem;
+  font-weight: 100;
+  background-color: dimgrey;
+  border: 2px solid black;
+  border-radius: 30px;
+  height: 90px;
+  width: 200px;
+  margin-left: 850px;
+  margin-top: -1800px;
+}
+#experience-badge-2{
+  padding: 10px 10px;
+  font-size: 1rem;
+  font-weight: 100;
+  background-color: dimgrey;
+  border: 2px solid black;
+  border-radius: 30px;
+  height: 90px;
+  width: 200px;
+  margin-left: 550px;
+  /* margin-top: -1000px; */
+  margin-bottom: 1000px;
+}
+#video-tutorial{
+  font-size: 3rem;
+  font-weight: 200;
+ 
+}
+#workout-video{
+  font-size: 3rem;
+  font-weight: 200;
+}
+.group-1{
+  justify-content: center;
+}
+.sub-title-1, .hed-title{
+   /* margin-left: 170px; */
+
+    
+}
+.hed-title{
+  color: white;
+  font-size: 3rem;
+}
